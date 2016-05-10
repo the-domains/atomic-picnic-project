@@ -5,18 +5,18 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ATOMIC PICNIC PROJECT
-datePublished: '2016-05-10T16:55:31.360Z'
-dateModified: '2016-05-10T16:55:02.781Z'
+datePublished: '2016-05-10T17:26:46.541Z'
+dateModified: '2016-05-10T16:56:52.382Z'
+title: ''
+author: []
+sourcePath: _posts/2016-05-10-atomic-picnic-project.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: ''
-author: []
-starred: false
-sourcePath: _posts/2016-05-10-atomic-picnic-project.md
+starred: true
 url: atomic-picnic-project/index.html
 _type: Article
 
