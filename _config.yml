@@ -1,0 +1,28 @@
+name: Atomic Picnic Project
+favicon: null
+layout_spectrum: 0.40568854683078825
+typography_spectrum: 0.696095610037446
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6268984200432897
+  lightness: 0.055892813950777054
+  saturation: 0.6471456419676542
+  rhythmicContrast: 0.9586398687679321
+purpose: []
