@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ATOMIC PICNIC PROJECT
-datePublished: '2016-05-10T17:26:46.541Z'
-dateModified: '2016-05-10T16:56:52.382Z'
+datePublished: '2016-05-13T18:31:27.191Z'
+dateModified: '2016-05-10T18:35:05.820Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-10-atomic-picnic-project.md
@@ -53,6 +53,7 @@ and
 
 **"**[Raven's Dance][1]**".  
 The next CD is already in the works. Something to look forward to......**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7155821f-5871-4d9c-87a3-827bdb8573c5.jpg)
 
 [0]: http://atomicpicnicproject.com/team/index.php "The Creators"
 [1]: http://atomicpicnicproject.com/ravens-dance/index.php
