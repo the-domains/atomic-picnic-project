@@ -8,14 +8,14 @@ description: >-
   Release of "Out of my shell" 7-15-2016! Reserve your copy here:
   https://www.amazon.de/Out-of-my-shell/dp/B01HOMAZ4W/, Download mp3's here:
   http://player.believe.fr/v2/4020796463960
-datePublished: '2016-07-01T08:40:21.317Z'
-dateModified: '2016-07-01T08:38:50.057Z'
+datePublished: '2016-07-01T13:54:20.378Z'
+dateModified: '2016-07-01T08:40:29.359Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-01-release-of-out-of-my-shell-7-15-2016-reserve-your-copy-he.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-01-release-of-out-of-my-shell-7-15-2016-reserve-your-copy-he.md
 url: release-of-out-of-my-shell-7-15-2016-reserve-your-copy-he/index.html
 _type: Article
 
